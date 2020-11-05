@@ -1,0 +1,61 @@
+[{
+  "lng": -3.47842,
+  "Town": "Aberbran",
+  "Population": 111441,
+  "County": "Powys",
+  "lat": 51.95469
+}, {
+  "lng": -3.71984,
+  "Town": "Abercraf",
+  "Population": 34160,
+  "County": "Powys",
+  "lat": 51.79855
+}, {
+  "lng": 0.51599,
+  "Town": "Abbey Gate",
+  "Population": 76071,
+  "County": "Kent",
+  "lat": 51.29857
+}, {
+  "lng": -0.0663,
+  "Town": "Addiscombe",
+  "Population": 20802,
+  "County": "Greater London (Croydon)",
+  "lat": 51.381
+}, {
+  "lng": -2.27481,
+  "Town": "Albrighton",
+  "Population": 31662,
+  "County": "Shropshire",
+  "lat": 52.63793
+}, {
+  "lng": -6.14696,
+  "Town": "Achnaha",
+  "Population": 27888,
+  "County": "Highland",
+  "lat": 56.73902
+}, {
+  "lng": -6.85805,
+  "Town": "Ă\u20acird Shleibhe",
+  "Population": 162209,
+  "County": "Na h-Eileanan an Iar",
+  "lat": 57.80184
+}, {
+  "lng": -4.32224,
+  "Town": "Airdens",
+  "Population": 97713,
+  "County": "Highland",
+  "lat": 57.90963
+}, {
+  "lng": -1.82357,
+  "Town": "Alderholt",
+  "Population": 107189,
+  "County": "Dorset",
+  "lat": 50.91183
+}, {
+  "lng": -2.89663,
+  "Town": "Abbey Dore",
+  "Population": 43116,
+  "County": "Herefordshire",
+  "lat": 51.96955
+}]

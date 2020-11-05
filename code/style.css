@@ -1,0 +1,40 @@
+svg { margin: auto; }
+.buttons { margin-left: 160px; padding: 10px; }
+
+/* Colours retreived from colorbrewer2.org */
+.FID0 { fill: #e0ecf4; fill-opacity: 0.7; } /* Ireland */
+.FID1 { fill: #74a9cf; fill-opacity: 0.7; } /* Northern Ireland */
+.FID2 { fill: #8c96c6; fill-opacity: 0.7; } /* Wales */
+.FID3 { fill: #8c6bb1; fill-opacity: 0.7; } /* England */
+.FID4 { fill: #9ebcda; fill-opacity: 0.7; } /* Scotland */
+.FID5 { fill: #88419d; fill-opacity: 0.7; } /* Isle of Man */
+.FID6 { display: none; } /* Faroe Islands - Don't display */
+
+.pan rect,
+.zoom rect { fill: black; opacity: 0.1; }
+
+.zoom rect { rx: 5; ry: 5; }
+
+.pan text,
+.zoom text { fill: black; font-size: 20px; text-anchor: middle; font-weight: bolder; }
+
+.pan:hover rect,
+.pan:hover text,
+.zoom:hover rect,
+.zoom:hover text { fill: blue; }
+
+.circle { fill: #1d91c0; stroke: #1d91c0; stroke-width: 2; fill-opacity: 0.4; }
+
+.circle:hover { fill: #175e7a; stroke: #175e7a; stroke-width: 2px; }
+
+.tooltip {
+    position: absolute;
+    opacity: 0;
+    font-family: Helvetica;
+    opacity: 1;
+    background-color: white;
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+}
