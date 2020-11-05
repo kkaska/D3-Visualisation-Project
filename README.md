@@ -5,4 +5,4 @@ To run, set up a simple python server with command line using  "python -m http.s
 
 https://giphy.com/gifs/VfWAoCpoDr7uDLZ23K
 
-![Gif of usage](https://giphy.com/gifs/VfWAoCpoDr7uDLZ23K)
+![Gif of usage](/gif.gif)
